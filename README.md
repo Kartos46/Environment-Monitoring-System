@@ -8,7 +8,7 @@ This IoT project monitors **soil moisture** and **temperature & humidity** using
 - DHT11 Temperature & Humidity Sensor
 
 ## 📐 Circuit Diagram
-![Circuit](Circuit/Diagram.png)
+![Circuit](Circuit/Diagram_iot.png)
 
 ## 💻 Code
 Located in `/code/soil_temp_hum.ino`
